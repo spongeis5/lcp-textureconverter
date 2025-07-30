@@ -1,5 +1,5 @@
 # Lights Camera Pants Texture Converter
-Python scripts that batch convert the textures from "SpongeBob SquarePants: Lights, Camera, Pants!" (Xbox) into readable pngs. Extract textures from .paks w/ PakTool by seilweiss
+Python script that batch converts the textures from "SpongeBob SquarePants: Lights, Camera, Pants!" (Xbox) into readable pngs. Extract texture files from .pak files w/ PakTool by seilweiss
 ### It reads all of the tex, tx1, and tx8 file prefixes as images, no need to convert it all to .dds beforehand!!
 
 # Requirements
